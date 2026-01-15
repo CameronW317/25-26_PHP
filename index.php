@@ -3,10 +3,7 @@
     <title>Welcome to the App!</title>
 </head>
 <body>
-Hello World!!!
-<?php
-phpinfo();
-
-?>
+<h1>Welcome to The App App</h1>
+<a href="contact.php">Contact Us</a>
 </body>
 </html>
